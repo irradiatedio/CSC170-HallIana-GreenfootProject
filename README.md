@@ -1,7 +1,7 @@
 # CSC170-HallIana-GreenfootProject\
 
 // 11/4/26 - Began work on the concept work for this semester's Greenfoot project. 
-// - Created the first version of the write-up:
+// - Created the first version of the write-up: 
 // https://docs.google.com/document/d/1JTElnadCAFKzy51vtkv6UKVMf1w00BaEWMtrfaLqzAk/edit?usp=sharing
 // - Created the first version of the flow chart:
 // https://drive.google.com/file/d/11vD5g_vaBCo-slyRotfgbJiRwru_JZ51/view?usp=sharing
