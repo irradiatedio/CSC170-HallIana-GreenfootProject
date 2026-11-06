@@ -12,3 +12,5 @@
 // https://drive.google.com/drive/folders/1r0dSW4KqbRcn5iXR86uGfkCGof2zvd7C?usp=drive_link
 // End 11/4/26
 // 11/5/26 - Continued work on the concept work
+// - Created the first version of the game instruction document: 
+// https://docs.google.com/document/d/13MuHeb8zzatsvPLDQTeJ4BXNu00vN_KNkwFndMIGl0k/edit?usp=sharing
