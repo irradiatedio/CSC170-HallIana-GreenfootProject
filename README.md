@@ -19,4 +19,5 @@
 // End 11/8/26
 // 11/11/26 - Began work on updating Flow Chart and documents to reflect the current direction of development. 
 // - Created a folder for old versions of documents in the Google Drive project folder. Old versions will be copied and moved to that week's folder as major changes are made.
-// 
+// - Completed Prototype, including moving Player and Enemy, Switches and Doors, and an Escape point.
+// End 11/11/26
