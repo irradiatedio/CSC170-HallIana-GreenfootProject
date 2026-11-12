@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SeaBed
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ seaBed\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SeaBed()
+comment2.params=
+comment2.target=void\ generateMap()
+comment3.params=accessCoords
+comment3.target=void\ lockAndKey(int[][])
+comment4.params=
+comment4.target=int[]\ getRespawnPoint()
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=6
