@@ -15,4 +15,8 @@
 // - Created the first version of the game instruction document: 
 // https://docs.google.com/document/d/13MuHeb8zzatsvPLDQTeJ4BXNu00vN_KNkwFndMIGl0k/edit?usp=sharing
 // End 11/5/26
-//
+//11/8/26 - Implemented Actors into the project file; prepared to start work on a rough prototype of the game.
+// End 11/8/26
+// 11/11/26 - Began work on updating Flow Chart and documents to reflect the current direction of development. 
+// - Created a folder for old versions of documents in the Google Drive project folder. Old versions will be copied and moved to that week's folder as major changes are made.
+// 
