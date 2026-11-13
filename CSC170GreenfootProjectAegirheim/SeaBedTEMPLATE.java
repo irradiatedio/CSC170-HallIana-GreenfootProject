@@ -15,8 +15,9 @@ public class SeaBedTEMPLATE extends World
      */
     public SeaBedTEMPLATE()
     {    
-        return;
         
+        super(14,14,1);
+        return;
         //template map 14x14
         /*
         private char[][] seaBedEmptyRoom = {

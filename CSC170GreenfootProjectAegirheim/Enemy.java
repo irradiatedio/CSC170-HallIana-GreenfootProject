@@ -28,7 +28,7 @@ public class Enemy extends Actor
         if ("demoBeast".equals(name)){
             setImage("ppl1.png");
             this.name = name;
-            this.speed = 2;
+            this.speed = 1;
             this.huntsYou = true;
             this.ghost = false;
             this.isDefeated = false;

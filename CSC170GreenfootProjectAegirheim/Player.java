@@ -8,7 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class Player extends Actor
 {
-    private int speed = 4;
+    private int speed = 3;
     private boolean isMoving = false;
     private int hp = 0;
     private int currentHP = 0;
