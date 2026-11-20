@@ -23,7 +23,7 @@ public class EndingDEMO extends World
         bgImage.drawRect(0,0,1,1);
         setBackground(bgImage);
         
-        showText("This is the end of the prototype stage\nThis stage is meant for quick testing of implemented features for\nease of testing and grading.\nThank you.\n-Iana", 300, 50);
+        showText("This is the end of the prototype stage\nThis stage is meant for quick testing of implemented features for\nease of testing and grading.\nThank you.\n-Iana", 300, 100);
         Greenfoot.stop();
     }
 }

@@ -78,7 +78,7 @@ public class FieldOfBattle extends World
                     //handleCowardice();
                     Greenfoot.setWorld(previousWorld);
                 }else if (currentState == LOSE_STATE){
-                    Greenfoot.stop();
+                    Greenfoot.setWorld(new EndingDEMO());
                 }
             }
             return;

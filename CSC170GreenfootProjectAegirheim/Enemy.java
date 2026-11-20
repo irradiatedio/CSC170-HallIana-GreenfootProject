@@ -34,7 +34,7 @@ public class Enemy extends Actor
             this.huntsYou = true;
             this.ghost = false;
             //this.isDefeated = false;
-            this.agression = 2;
+            this.agression = 3;
             this.attack = 5;
             this.defense = 3;
             this.passMyTurn[0] = "\nThe eldrich creature shudders. \nParts of its alien body appear and disappear rapidly.";
@@ -50,7 +50,7 @@ public class Enemy extends Actor
             this.huntsYou = false;
             this.ghost = false;
             //this.isDefeated = false;
-            this.agression = 4;
+            this.agression = 3;
             this.attack = 10;
             this.defense = 4;
             this.passMyTurn[0] = "\nThis armorclad wight stands perfectly still\n...rattling with impatience.";
