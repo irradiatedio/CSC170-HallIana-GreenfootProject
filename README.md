@@ -25,5 +25,6 @@
 // - Completed M13 Development Point. Finished all actor interactions, including a finished battle system. The Prototype Map is still in use, featuring an additional test enemy, the demoVigilant, so that I could test the loss condition, flavor text, and points lost/earned from battle.
 // - Implemented mandatory loss condition.
 // - Implemented mandatory score display, shown on SeaBed map. 
+// - Project reupload; tweaked aggression values
 // End 11/19/26; technically early 11/20/26
 //
