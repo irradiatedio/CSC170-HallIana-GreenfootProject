@@ -25,6 +25,7 @@ public class SeaBed extends World
     //. = empty space
     //p = player
     //D = demo beast
+    //d = demo vigil
     
     //A= Access Point 1
     //a= Access Switch 1
@@ -49,7 +50,7 @@ public class SeaBed extends World
         {'w','w','w','w','w','.','w','.','w','.','.','.','.','w'},
         {'w','.','.','.','w','.','.','.','.','.','.','w','w','w'},
         {'w','.','e','.','w','w','w','w','w','w','.','.','.','w'},
-        {'w','.','.','.','B','.','.','.','.','.','.','w','.','w'},
+        {'w','.','.','.','B','d','.','.','.','.','.','w','.','w'},
         {'w','w','w','w','w','w','w','w','w','w','w','w','w','w'},
     };
        
@@ -69,8 +70,13 @@ public class SeaBed extends World
         bgImage.setColor(tan);
         bgImage.drawRect(0,0,1,1);
         setBackground(bgImage);
+        
+        
 
         generateMap();
+        
+        Score score = new Score(); 
+        addObject(score, 80, 30);
 
         //prepare();
         prepare();
@@ -98,6 +104,8 @@ public class SeaBed extends World
                     addObject(new Player(), x, y);
                 } else if (seaBedDEMO[row][col] == 'D'){
                     addObject(new Enemy("demoBeast"), x, y);
+                } else if (seaBedDEMO[row][col] == 'd'){
+                    addObject(new Enemy("demoVigilant"), x, y);
                 } else if (seaBedDEMO[row][col] == 'A'){
                     //create the first access point
                     accessPair1[0][0] = col;
@@ -133,9 +141,7 @@ public class SeaBed extends World
         }
         int progressPair = 0;
         lockAndKey(accessPair1);
-        //progressPair++;
         lockAndKey(accessPair2);
-        //progressPair++
         lockAndKey(accessPair3);
     }
         

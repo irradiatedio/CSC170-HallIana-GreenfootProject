@@ -34,4 +34,8 @@ public class AccessSwitch extends Actor
             }
         }
     }
+    
+    public boolean isActivated(){
+        return isActivated;
+    }
 }
