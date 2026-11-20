@@ -21,3 +21,9 @@
 // - Created a folder for old versions of documents in the Google Drive project folder. Old versions will be copied and moved to that week's folder as major changes are made.
 // - Completed Prototype, including moving Player and Enemy, Switches and Doors, and an Escape point.
 // End 11/11/26
+//11/19/26
+// - Completed M13 Development Point. Finished all actor interactions, including a finished battle system. The Prototype Map is still in use, featuring an additional test enemy, the demoVigilant, so that I could test the loss condition, flavor text, and points lost/earned from battle.
+// - Implemented mandatory loss condition.
+// - Implemented mandatory score display, shown on SeaBed map. 
+// End 11/19/26; technically early 11/20/26
+//
