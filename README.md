@@ -27,4 +27,7 @@
 // - Implemented mandatory score display, shown on SeaBed map. 
 // - Project reupload; tweaked aggression values
 // End 11/19/26; technically early 11/20/26
-//
+//11/20/26
+// - Updated all documents for current state of the game
+// - Deleted directory "HallIanaM11 - Greenfoot Project" to make room for a Module-neutral "HallIanaCSC170 - Greenfoot Project"; nothing but the name has been changed for the purposes of this project 
+// - Documents folder updated, forgot to update the Instructions and Concept docs.
